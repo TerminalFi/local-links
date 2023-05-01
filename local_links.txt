@@ -1,0 +1,5 @@
+https://www.thetimes.co.uk/
+https://www.alfredforum.com/topic/20329-is-there-any-way-to-search-within-a-bbedit-or-textedit-file-containing-a-list-of-links-and-activate-the-found-link/#comment-105211
+https://github.com/drgrib/alfred-bear
+https://www.alfredapp.com/help/
+/Users/terminal/git/local-links/local_links.txt
